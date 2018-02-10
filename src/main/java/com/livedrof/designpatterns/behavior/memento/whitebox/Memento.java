@@ -1,6 +1,6 @@
-package com.livedrof.designpatterns.memento.blockbox;
+package com.livedrof.designpatterns.behavior.memento.whitebox;
 
-public class Memento implements MementoInter {
+public class Memento {
 
     private int state;
     private long dateTime;
@@ -14,15 +14,7 @@ public class Memento implements MementoInter {
         return state;
     }
 
-    public void setState(int state) {
-        this.state = state;
-    }
-
     public long getDateTime() {
         return dateTime;
-    }
-
-    public void setDateTime(long dateTime) {
-        this.dateTime = dateTime;
     }
 }

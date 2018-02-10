@@ -1,4 +1,4 @@
-package com.livedrof.designpatterns.memento.blockbox;
+package com.livedrof.designpatterns.behavior.memento.blockbox;
 
 import org.junit.Before;
 import org.junit.Test;

@@ -1,4 +1,4 @@
-package com.livedrof.designpatterns.memento.whitebox;
+package com.livedrof.designpatterns.behavior.memento.whitebox;
 
 import org.junit.Before;
 import org.junit.Test;

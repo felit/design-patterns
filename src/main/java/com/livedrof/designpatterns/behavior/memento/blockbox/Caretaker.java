@@ -1,4 +1,4 @@
-package com.livedrof.designpatterns.memento.blockbox;
+package com.livedrof.designpatterns.behavior.memento.blockbox;
 
 public class Caretaker {
     private MementoInter memento;

@@ -1,4 +1,4 @@
-package com.livedrof.designpatterns.memento.whitebox;
+package com.livedrof.designpatterns.behavior.memento.whitebox;
 
 import java.util.Date;
 
